@@ -108,6 +108,7 @@
 
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Davide Bresolin, Gilberto Filè, Università di Padova
 * [Concetti di Informatica](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpTx_nIWA3N3TEdyoRBzWCt) - Mauro Cicolella
+* [Espressioni regolari - RegEx](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co72vs-7KRCiCgaC3ht-HYM) - Mauro Cicolella
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano, Università di Cassino e del Lazio Meridionale
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - Marco Mezzalama, Politecnico di Torino
 * [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi
@@ -119,6 +120,7 @@
 ### Java
 
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
+* [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
 * [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) - Mauro Cicolella
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba

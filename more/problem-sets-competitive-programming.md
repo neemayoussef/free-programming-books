@@ -16,7 +16,6 @@
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
 * [Binary Search](https://binarysearch.com)
-* [Caribbean Online Judge](http://coj.uci.cu)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -28,11 +27,12 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
-* [CP Algorithms](https://cp-algorithms.com)
+* [Competitive Programming Cheat Sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [CSES Problem Set](https://cses.fi/problemset)
 * [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
+* [Exercism](https://exercism.org)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
@@ -46,6 +46,7 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
+* [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [Techgig](https://www.techgig.com)
@@ -63,6 +64,7 @@
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+* [SmashtheStack](http://www.smashthestack.org/wargames.html)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -132,4 +134,5 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+* [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
