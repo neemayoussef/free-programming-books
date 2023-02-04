@@ -2,6 +2,7 @@
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
+Books on general-purpose programming that don't focus on a specific language are in listed in the subject "Programming". Books on specialized topics are listed in their own sub-sections.
 
 
 ### Index
@@ -434,11 +435,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF)
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
 * [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - Simon Long (PDF)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
+* [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
 * [C Handbook](https://thevalleyofcode.com/c/) - Flavio Copes (HTML, PDF)
@@ -507,7 +510,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### <a id="cpp"></a>C++
 
-* [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (:construction: *in process*)
+* [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
 * [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)

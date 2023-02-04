@@ -37,6 +37,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Parallel Programming](#parallel-programming)
 * [Partial Evaluation](#partial-evaluation)
 * [Professional Development](#professional-development)
+* [Programming](#programming)
 * [Programming Paradigms](#programming-paradigms)
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
@@ -293,6 +294,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Game AI Pro](http://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](http://gameprogrammingpatterns.com) - Bob Nystrom
+* [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns) - Unity (HTML & PDF)
 * [Procedural Content Generation in Games](http://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 
 
@@ -548,6 +550,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz *(:card_file_box: archived)*
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 * [Exploring Math for Programmers and Data Scientists](https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/) - Paul Orland
+* [Graph Theory Exercises](https://www.ime.usp.br/~pf/graph-exercises/) - Paulo Feofiloff (PDF)
 * [Isomorphism -- Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
 
@@ -671,6 +674,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
 * [Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) - Andy Oram
 * [Producing Open Source Software](http://producingoss.com) - Karl Fogel
+* [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
 * [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html)
 * [The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
@@ -725,10 +729,27 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
+* [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+
+
+### Programming
+
+* [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
+* [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
+* [Introduction to Computing](http://www.computingbook.org) - David Evans
+* [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
+* [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
+* [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+* [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
+* [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
+* [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
 ### Programming Paradigms
@@ -854,26 +875,15 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
 * [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - Stefan Hugtenburgand, Neil Yorke-Smith @ TU Delft Open (PDF)
-* [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](http://homotopytypetheory.org/book/) (PDF)
-* [Introduction to Computer Science](http://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
-* [Introduction to Computing](http://www.computingbook.org)
 * [Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 * [Models of Computation](http://cs.brown.edu/people/jes/book/) - John E. Savage
 * [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith
-* [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
 * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
 * [Semantics with Applications: A Formal Introduction](http://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
-* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
-* [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
-* [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
-* [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
-* [Theory of Computation, Making Connections](https://joshua.smcvt.edu/computation) - Jim Hefferon (PDF)
-* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
 
 ### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>Version Control Systems
